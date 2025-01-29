@@ -13,7 +13,7 @@ Stepts to run and test the project
 
 Comments
 
-This test represent a risk for me, I seen some points thah i consider are importants
+This test represent a challenge for me, I seen some points thah i consider are importants
 1.- Documentation about the endpoints and the use are clear, but some usage examples and a references explaining what the fiels in the JSON of the stories details mean.
 2.- Expose only neccesary fields to consume the API in a real situation.
 3.- I can optimizar the querys and the way to serialize and deserialize the JSON.
