@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Stories.Controllers.PrincipalController",
+    "Method": "Get",
+    "RelativePath": "Principal/{n}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
